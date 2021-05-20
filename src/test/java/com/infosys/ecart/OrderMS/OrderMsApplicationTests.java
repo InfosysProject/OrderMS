@@ -1,13 +1,13 @@
-package com.infosys.ecart.OrderMS;
+// package com.infosys.ecart.OrderMS;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class OrderMsApplicationTests {
+// @SpringBootTest
+// class OrderMsApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
